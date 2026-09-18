@@ -1,5 +1,5 @@
 # human_type_to_word.py
-# Requirements: pip install pyautogui python-docx pyperclip keyboard pygetwindow
+pip pyautogui python-docx pyperclip keyboard pygetwindow
 
 import pyautogui
 import time
